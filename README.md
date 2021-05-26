@@ -12,6 +12,9 @@
 ## String
  - Encode and Decode TinyURL (M)
  
- ## Linked List
+## Linked List
  - Design Linked List (M)
  - Add Two Numbers (M)
+
+## Dynamic Programming
+ - Count Sorted Vowel Strings (M)
