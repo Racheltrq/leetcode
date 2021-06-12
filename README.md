@@ -5,6 +5,8 @@
  - Valid Mounatin Array (E)
  - Move All Balls to Each Box (M)
  - Arithmetic Subarrays (M)
+ - Find Center of Star Graph (M)
+ - Minimize Maximum Pair Sum in Array (M)
 
 ## Tree
  - Same Tree (E)
