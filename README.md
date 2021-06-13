@@ -17,6 +17,7 @@
 ## Linked List
  - Design Linked List (M)
  - Add Two Numbers (M)
+ - Merge k Sorted Lists (H)
 
 ## Dynamic Programming
  - Count Sorted Vowel Strings (M)
