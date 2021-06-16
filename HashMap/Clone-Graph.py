@@ -6,6 +6,8 @@ class Node(object):
         self.neighbors = neighbors if neighbors is not None else []
 """
 
+# Use a hashmap to keep track of all the newly cloned nodes. Use dfs and recusively add the neighbors to the new nodes.
+
 class Solution(object):
     def cloneGraph(self, node):
         dict = {}
