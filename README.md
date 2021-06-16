@@ -3,6 +3,7 @@
 ## Array
  - Path Crossing (E)
  - Valid Mounatin Array (E)
+ - Find Center of Star Graph (E)
  - Move All Balls to Each Box (M)
  - Arithmetic Subarrays (M)
  - Find Center of Star Graph (M)
@@ -23,3 +24,5 @@
 
 ## Dynamic Programming
  - Count Sorted Vowel Strings (M)
+ - Unique Paths (M)
+ - Unique Paths II (M)
