@@ -28,4 +28,6 @@
  - Unique Paths II (M)
 
 ## Hash Map
+ - Two Sum (E)
  - Clone Graph (M)
+ 
