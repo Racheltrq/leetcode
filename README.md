@@ -14,6 +14,7 @@
  - Maximum Depth of Binary Tree (E)
  - Binary Tree Level Order Traversal (M)
  - Binary Tree Level Order Traversal II (M)
+ - Binary Tree Right Side View (M)
 
 ## String
  - Encode and Decode TinyURL (M)
