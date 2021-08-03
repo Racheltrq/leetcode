@@ -8,6 +8,7 @@
  - Arithmetic Subarrays (M)
  - Find Center of Star Graph (M)
  - Minimize Maximum Pair Sum in Array (M)
+ - Valid Sudoku (M)
 
 ## Tree
  - Same Tree (E)
