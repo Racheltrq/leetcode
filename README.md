@@ -11,6 +11,7 @@
 
 ## Tree
  - Same Tree (E)
+ - Maximum Depth of Binary Tree (E)
  - Binary Tree Level Order Traversal (M)
  - Binary Tree Level Order Traversal II (M)
 
