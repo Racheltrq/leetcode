@@ -16,6 +16,7 @@
  - Binary Tree Level Order Traversal (M)
  - Binary Tree Level Order Traversal II (M)
  - Binary Tree Right Side View (M)
+ - Generate Parentheses (M)
 
 ## String
  - Encode and Decode TinyURL (M)
@@ -29,6 +30,7 @@
  - Count Sorted Vowel Strings (M)
  - Unique Paths (M)
  - Unique Paths II (M)
+ - Trapping Rain Water (H)
 
 ## Hash Map
  - Two Sum (E)
