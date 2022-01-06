@@ -13,10 +13,12 @@
 ## Tree
  - Same Tree (E)
  - Maximum Depth of Binary Tree (E)
+ - Binary Tree Inorder Traversal (E)
  - Binary Tree Level Order Traversal (M)
  - Binary Tree Level Order Traversal II (M)
  - Binary Tree Right Side View (M)
  - Generate Parentheses (M)
+
 
 ## String
  - Encode and Decode TinyURL (M)
@@ -30,10 +32,14 @@
  - Count Sorted Vowel Strings (M)
  - Unique Paths (M)
  - Unique Paths II (M)
+ - Jump Game II (M)
  - Trapping Rain Water (H)
 
 ## Hash Map
  - Two Sum (E)
  - Clone Graph (M)
  - Integer to Roman (M)
+
+## Math
+ - Reverse Integer (M)
  
