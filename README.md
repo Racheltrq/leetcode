@@ -23,6 +23,7 @@
 ## String
  - Encode and Decode TinyURL (M)
  - Longest Substring Without Repeating Characters (M)
+ - Longest Palindromic Substring (M)
  
 ## Linked List
  - Design Linked List (M)
