@@ -28,6 +28,7 @@
 ## Linked List
  - Design Linked List (M)
  - Add Two Numbers (M)
+ - Remove Nth Node From End of List (M)
  - Merge k Sorted Lists (H)
 
 ## Dynamic Programming
