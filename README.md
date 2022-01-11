@@ -37,6 +37,7 @@
  - Unique Paths (M)
  - Unique Paths II (M)
  - Jump Game II (M)
+ - Maximum Path Sum (M)
  - Trapping Rain Water (H)
 
 ## Hash Map
