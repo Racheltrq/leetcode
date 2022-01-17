@@ -10,6 +10,7 @@
  - Minimize Maximum Pair Sum in Array (M)
  - Valid Sudoku (M)
  - Container With Most Water (M)
+ - Permutations II (M)
 
 ## Tree
  - Same Tree (E)
